@@ -1,0 +1,139 @@
+.Style1{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 15px; 
+margin:0;
+color: #FFFEFE;
+word-wrap: break-word;}
+.Style2{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 14px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style3{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+margin:0;
+word-wrap: break-word;}
+.Style4{font-family: 'Helvetica',sans-serif;
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+.Style5{font-family: 'HelveticaNeue-Bold','Helvetica Neue','Arial',sans-serif;
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style6{font-family: 'HelveticaNeue-Bold','Helvetica Neue','Arial',sans-serif;
+font-size: 16px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style7{font-family: 'Georgia',serif;
+font-size: 14px; 
+margin:0;
+word-wrap: break-word;}
+.Style8{font-family: 'Georgia-Italic','Georgia',serif;
+font-size: 14px; 
+font-style: italic;
+word-wrap: break-word;}
+.Style9{font-family: 'Georgia',serif;
+font-size: 14px; 
+word-wrap: break-word;}
+.linkStyle_10{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#0432FF#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_10:visited{color:#0432FF; text-decoration:underline;}
+a.linkStyle_10:hover{color:#FF2600; text-decoration:underline;}
+a.Style7:visited{color:#0432FF; text-decoration:underline;}
+a.Style7:hover{color:#FF2600; text-decoration:underline;}
+.Style15{font-family: 'HelveticaNeue-Bold','Helvetica Neue','Arial',sans-serif;
+font-size: 14px; 
+font-weight:700; 
+word-wrap: break-word;}
+.Style16{font-family: 'Georgia',serif;
+font-size: 14px; 
+margin:0;
+color: #202500;
+word-wrap: break-word;}
+.Style17{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #202500;
+word-wrap: break-word;}
+a.Style16:visited{color:#0432FF; text-decoration:underline;}
+a.Style16:hover{color:#FF2600; text-decoration:underline;}
+.Style20{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #000000;
+word-wrap: break-word;}
+.Style21{font-family: 'Georgia',serif;
+font-size: 14px; 
+font-weight: 400;
+word-wrap: break-word;}
+.linkStyle_22{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#CBCBCB#942092#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_22:visited{color:#0432FF; text-decoration:underline;}
+a.linkStyle_22:hover{color:#FF2600; text-decoration:underline;}
+.Style25{font-family: 'Georgia',serif;
+font-size: 14px; 
+margin:0;
+color: #1F2400;
+word-wrap: break-word;}
+.Style26{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #1F2400;
+word-wrap: break-word;}
+.Style27{font-family: 'HelveticaNeue-CondensedBold','Helvetica Neue','Arial',sans-serif;
+font-size: 16px; 
+font-weight:700; 
+margin:0;
+color: #FFFEFE;
+word-wrap: break-word;}
+.Style28{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 13px; 
+margin:0;
+color: #FFFEFE;
+word-wrap: break-word;}
+.Style29{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 20px; 
+margin:0;
+color: #FFFEFE;
+word-wrap: break-word;}
+.Style30{font-family: 'Georgia-Bold','Georgia',serif;
+font-size: 16px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.linkStyle_31{font-family: 'Georgia',serif;
+font-size: 14px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#FEFB00#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_31:visited{color:#0432FF; text-decoration:underline;}
+a.linkStyle_31:hover{color:#FF2600; text-decoration:underline;}
+.Style34{font-family: 'Georgia-BoldItalic','Georgia',serif;
+font-size: 14px; 
+font-weight:700; 
+font-style: italic;
+margin:0;
+word-wrap: break-word;}
+.Style35{font-family: 'Georgia-Italic','Georgia',serif;
+font-size: 14px; 
+font-style: italic;
+margin:0;
+word-wrap: break-word;}
+.Style36{font-family: 'Georgia',serif;
+font-size: 14px; 
+font-style: normal;
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
